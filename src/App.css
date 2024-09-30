@@ -1,0 +1,10 @@
+.layout{
+  max-width: 20rem;
+  margin-inline: auto;
+  background-color: antiquewhite;
+}
+
+input {
+  display: block;
+  width: 100%;
+}
